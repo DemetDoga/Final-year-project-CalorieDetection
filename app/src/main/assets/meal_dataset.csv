@@ -1,0 +1,401 @@
+type,name,calories,protein,carbs,fat
+İçecek,Taze Portakal Suyu,120,1,25,0
+Akşam Yemeği,Izgara Somon ve Sebzeler,500,40,10,20
+Öğle Yemeği,Izgara Tavuklu Salata,450,40,10,15
+Akşam Yemeği,Izgara Köfte ve Brokoli,450,35,5,15
+Öğle Yemeği,Izgara Hindi ve Bulgur,420,38,30,10
+İçecek,Smoothie,150,3,30,2
+Ara Öğün,Meyve Salatası,150,2,35,0
+Öğle Yemeği,Izgara Tavuklu Salata,450,40,10,15
+Öğle Yemeği,Izgara Hindi ve Bulgur,420,38,30,10
+Kahvaltı,Yulaf Ezmesi ve Meyve,250,6,35,4
+Öğle Yemeği,Quinoa ve Sebzeler,400,12,50,8
+İçecek,Yeşil Çay,0,0,0,0
+Ara Öğün,Ceviz ve Yoğurt,200,8,15,10
+Öğle Yemeği,Izgara Tavuklu Salata,450,40,10,15
+Ara Öğün,Meyve Salatası,150,2,35,0
+Ara Öğün,Meyve Salatası,150,2,35,0
+Akşam Yemeği,Izgara Köfte ve Brokoli,450,35,5,15
+Akşam Yemeği,Izgara Somon ve Sebzeler,500,40,10,20
+Akşam Yemeği,Izgara Köfte ve Brokoli,450,35,5,15
+Kahvaltı,Tam Tahıllı Ekmek ve Peynir,270,8,30,9
+Akşam Yemeği,Tavuk Şiş ve Pilav,480,32,45,12
+Öğle Yemeği,Quinoa ve Sebzeler,400,12,50,8
+Öğle Yemeği,Izgara Tavuklu Salata,450,40,10,15
+Akşam Yemeği,Tavuk Şiş ve Pilav,480,32,45,12
+Öğle Yemeği,Izgara Hindi ve Bulgur,420,38,30,10
+Öğle Yemeği,Izgara Hindi ve Bulgur,420,38,30,10
+Akşam Yemeği,Izgara Somon ve Sebzeler,500,40,10,20
+İçecek,Smoothie,150,3,30,2
+Ara Öğün,Ceviz ve Yoğurt,200,8,15,10
+Kahvaltı,Yulaf Ezmesi ve Meyve,250,6,35,4
+Akşam Yemeği,Tavuk Şiş ve Pilav,480,32,45,12
+Öğle Yemeği,Quinoa ve Sebzeler,400,12,50,8
+Ara Öğün,Meyve Salatası,150,2,35,0
+Ara Öğün,Meyve Salatası,150,2,35,0
+Ara Öğün,Ceviz ve Yoğurt,200,8,15,10
+İçecek,Taze Portakal Suyu,120,1,25,0
+Öğle Yemeği,Izgara Hindi ve Bulgur,420,38,30,10
+İçecek,Smoothie,150,3,30,2
+Kahvaltı,Omlet ve Avokado,300,12,10,20
+İçecek,Yeşil Çay,0,0,0,0
+Kahvaltı,Omlet ve Avokado,300,12,10,20
+Ara Öğün,Fındık ve Kuru Meyve,180,4,20,8
+Öğle Yemeği,Izgara Hindi ve Bulgur,420,38,30,10
+Kahvaltı,Tam Tahıllı Ekmek ve Peynir,270,8,30,9
+Öğle Yemeği,Quinoa ve Sebzeler,400,12,50,8
+Akşam Yemeği,Tavuk Şiş ve Pilav,480,32,45,12
+Akşam Yemeği,Tavuk Şiş ve Pilav,480,32,45,12
+Kahvaltı,Omlet ve Avokado,300,12,10,20
+Öğle Yemeği,Quinoa ve Sebzeler,400,12,50,8
+İçecek,Yeşil Çay,0,0,0,0
+Kahvaltı,Tam Tahıllı Ekmek ve Peynir,270,8,30,9
+Öğle Yemeği,Izgara Tavuklu Salata,450,40,10,15
+Kahvaltı,Tam Tahıllı Ekmek ve Peynir,270,8,30,9
+Öğle Yemeği,Quinoa ve Sebzeler,400,12,50,8
+İçecek,Smoothie,150,3,30,2
+Öğle Yemeği,Izgara Hindi ve Bulgur,420,38,30,10
+Kahvaltı,Yulaf Ezmesi ve Meyve,250,6,35,4
+Kahvaltı,Omlet ve Avokado,300,12,10,20
+Öğle Yemeği,Quinoa ve Sebzeler,400,12,50,8
+Kahvaltı,Omlet ve Avokado,300,12,10,20
+Öğle Yemeği,Izgara Hindi ve Bulgur,420,38,30,10
+Ara Öğün,Ceviz ve Yoğurt,200,8,15,10
+İçecek,Taze Portakal Suyu,120,1,25,0
+Öğle Yemeği,Izgara Tavuklu Salata,450,40,10,15
+Kahvaltı,Omlet ve Avokado,300,12,10,20
+Akşam Yemeği,Izgara Köfte ve Brokoli,450,35,5,15
+Ara Öğün,Ceviz ve Yoğurt,200,8,15,10
+Akşam Yemeği,Izgara Somon ve Sebzeler,500,40,10,20
+Öğle Yemeği,Quinoa ve Sebzeler,400,12,50,8
+Ara Öğün,Meyve Salatası,150,2,35,0
+Öğle Yemeği,Izgara Tavuklu Salata,450,40,10,15
+Öğle Yemeği,Quinoa ve Sebzeler,400,12,50,8
+Akşam Yemeği,Izgara Somon ve Sebzeler,500,40,10,20
+İçecek,Smoothie,150,3,30,2
+Akşam Yemeği,Izgara Somon ve Sebzeler,500,40,10,20
+Kahvaltı,Tam Tahıllı Ekmek ve Peynir,270,8,30,9
+İçecek,Yeşil Çay,0,0,0,0
+Ara Öğün,Meyve Salatası,150,2,35,0
+Ara Öğün,Fındık ve Kuru Meyve,180,4,20,8
+Kahvaltı,Omlet ve Avokado,300,12,10,20
+İçecek,Smoothie,150,3,30,2
+Kahvaltı,Omlet ve Avokado,300,12,10,20
+Kahvaltı,Tam Tahıllı Ekmek ve Peynir,270,8,30,9
+Öğle Yemeği,Quinoa ve Sebzeler,400,12,50,8
+Ara Öğün,Ceviz ve Yoğurt,200,8,15,10
+Öğle Yemeği,Izgara Hindi ve Bulgur,420,38,30,10
+Akşam Yemeği,Izgara Somon ve Sebzeler,500,40,10,20
+Kahvaltı,Omlet ve Avokado,300,12,10,20
+İçecek,Yeşil Çay,0,0,0,0
+Öğle Yemeği,Izgara Hindi ve Bulgur,420,38,30,10
+Akşam Yemeği,Izgara Köfte ve Brokoli,450,35,5,15
+İçecek,Yeşil Çay,0,0,0,0
+Kahvaltı,Yulaf Ezmesi ve Meyve,250,6,35,4
+İçecek,Smoothie,150,3,30,2
+Akşam Yemeği,Tavuk Şiş ve Pilav,480,32,45,12
+Kahvaltı,Omlet ve Avokado,300,12,10,20
+Akşam Yemeği,Izgara Somon ve Sebzeler,500,40,10,20
+Akşam Yemeği,Tavuk Şiş ve Pilav,480,32,45,12
+Akşam Yemeği,Izgara Somon ve Sebzeler,500,40,10,20
+İçecek,Yeşil Çay,0,0,0,0
+İçecek,Taze Portakal Suyu,120,1,25,0
+Kahvaltı,Tam Tahıllı Ekmek ve Peynir,270,8,30,9
+Öğle Yemeği,Quinoa ve Sebzeler,400,12,50,8
+Kahvaltı,Omlet ve Avokado,300,12,10,20
+Kahvaltı,Omlet ve Avokado,300,12,10,20
+Akşam Yemeği,Izgara Köfte ve Brokoli,450,35,5,15
+Ara Öğün,Ceviz ve Yoğurt,200,8,15,10
+Akşam Yemeği,Izgara Köfte ve Brokoli,450,35,5,15
+Ara Öğün,Fındık ve Kuru Meyve,180,4,20,8
+Ara Öğün,Ceviz ve Yoğurt,200,8,15,10
+İçecek,Yeşil Çay,0,0,0,0
+İçecek,Taze Portakal Suyu,120,1,25,0
+İçecek,Smoothie,150,3,30,2
+Akşam Yemeği,Tavuk Şiş ve Pilav,480,32,45,12
+Öğle Yemeği,Quinoa ve Sebzeler,400,12,50,8
+Öğle Yemeği,Izgara Hindi ve Bulgur,420,38,30,10
+Akşam Yemeği,Izgara Somon ve Sebzeler,500,40,10,20
+Kahvaltı,Tam Tahıllı Ekmek ve Peynir,270,8,30,9
+İçecek,Taze Portakal Suyu,120,1,25,0
+Öğle Yemeği,Izgara Tavuklu Salata,450,40,10,15
+Kahvaltı,Yulaf Ezmesi ve Meyve,250,6,35,4
+Kahvaltı,Omlet ve Avokado,300,12,10,20
+İçecek,Taze Portakal Suyu,120,1,25,0
+Ara Öğün,Fındık ve Kuru Meyve,180,4,20,8
+İçecek,Yeşil Çay,0,0,0,0
+Ara Öğün,Fındık ve Kuru Meyve,180,4,20,8
+Akşam Yemeği,Izgara Somon ve Sebzeler,500,40,10,20
+Ara Öğün,Fındık ve Kuru Meyve,180,4,20,8
+Kahvaltı,Omlet ve Avokado,300,12,10,20
+Ara Öğün,Ceviz ve Yoğurt,200,8,15,10
+Akşam Yemeği,Izgara Somon ve Sebzeler,500,40,10,20
+İçecek,Smoothie,150,3,30,2
+Kahvaltı,Omlet ve Avokado,300,12,10,20
+Akşam Yemeği,Tavuk Şiş ve Pilav,480,32,45,12
+İçecek,Taze Portakal Suyu,120,1,25,0
+Akşam Yemeği,Tavuk Şiş ve Pilav,480,32,45,12
+Ara Öğün,Ceviz ve Yoğurt,200,8,15,10
+Öğle Yemeği,Quinoa ve Sebzeler,400,12,50,8
+İçecek,Yeşil Çay,0,0,0,0
+Kahvaltı,Yulaf Ezmesi ve Meyve,250,6,35,4
+Akşam Yemeği,Izgara Somon ve Sebzeler,500,40,10,20
+Ara Öğün,Fındık ve Kuru Meyve,180,4,20,8
+Kahvaltı,Yulaf Ezmesi ve Meyve,250,6,35,4
+Ara Öğün,Ceviz ve Yoğurt,200,8,15,10
+Kahvaltı,Tam Tahıllı Ekmek ve Peynir,270,8,30,9
+Ara Öğün,Meyve Salatası,150,2,35,0
+İçecek,Taze Portakal Suyu,120,1,25,0
+İçecek,Yeşil Çay,0,0,0,0
+İçecek,Smoothie,150,3,30,2
+Akşam Yemeği,Izgara Köfte ve Brokoli,450,35,5,15
+İçecek,Yeşil Çay,0,0,0,0
+Ara Öğün,Meyve Salatası,150,2,35,0
+Öğle Yemeği,Izgara Tavuklu Salata,450,40,10,15
+İçecek,Yeşil Çay,0,0,0,0
+Akşam Yemeği,Izgara Somon ve Sebzeler,500,40,10,20
+Ara Öğün,Ceviz ve Yoğurt,200,8,15,10
+Akşam Yemeği,Izgara Köfte ve Brokoli,450,35,5,15
+Ara Öğün,Meyve Salatası,150,2,35,0
+Akşam Yemeği,Tavuk Şiş ve Pilav,480,32,45,12
+Akşam Yemeği,Izgara Köfte ve Brokoli,450,35,5,15
+İçecek,Smoothie,150,3,30,2
+Kahvaltı,Omlet ve Avokado,300,12,10,20
+Kahvaltı,Yulaf Ezmesi ve Meyve,250,6,35,4
+Kahvaltı,Yulaf Ezmesi ve Meyve,250,6,35,4
+İçecek,Yeşil Çay,0,0,0,0
+Kahvaltı,Omlet ve Avokado,300,12,10,20
+Akşam Yemeği,Izgara Köfte ve Brokoli,450,35,5,15
+Akşam Yemeği,Izgara Köfte ve Brokoli,450,35,5,15
+Kahvaltı,Yulaf Ezmesi ve Meyve,250,6,35,4
+İçecek,Yeşil Çay,0,0,0,0
+Kahvaltı,Omlet ve Avokado,300,12,10,20
+Akşam Yemeği,Izgara Somon ve Sebzeler,500,40,10,20
+İçecek,Taze Portakal Suyu,120,1,25,0
+Öğle Yemeği,Izgara Tavuklu Salata,450,40,10,15
+Ara Öğün,Fındık ve Kuru Meyve,180,4,20,8
+Öğle Yemeği,Izgara Tavuklu Salata,450,40,10,15
+Kahvaltı,Yulaf Ezmesi ve Meyve,250,6,35,4
+Kahvaltı,Tam Tahıllı Ekmek ve Peynir,270,8,30,9
+İçecek,Yeşil Çay,0,0,0,0
+Öğle Yemeği,Izgara Tavuklu Salata,450,40,10,15
+Ara Öğün,Fındık ve Kuru Meyve,180,4,20,8
+Kahvaltı,Omlet ve Avokado,300,12,10,20
+Kahvaltı,Tam Tahıllı Ekmek ve Peynir,270,8,30,9
+Öğle Yemeği,Izgara Hindi ve Bulgur,420,38,30,10
+Öğle Yemeği,Quinoa ve Sebzeler,400,12,50,8
+Öğle Yemeği,Quinoa ve Sebzeler,400,12,50,8
+Ara Öğün,Meyve Salatası,150,2,35,0
+Akşam Yemeği,Tavuk Şiş ve Pilav,480,32,45,12
+Öğle Yemeği,Izgara Hindi ve Bulgur,420,38,30,10
+Kahvaltı,Tam Tahıllı Ekmek ve Peynir,270,8,30,9
+Akşam Yemeği,Izgara Somon ve Sebzeler,500,40,10,20
+Ara Öğün,Meyve Salatası,150,2,35,0
+Ara Öğün,Ceviz ve Yoğurt,200,8,15,10
+Öğle Yemeği,Quinoa ve Sebzeler,400,12,50,8
+Kahvaltı,Yulaf Ezmesi ve Meyve,250,6,35,4
+Ara Öğün,Ceviz ve Yoğurt,200,8,15,10
+Öğle Yemeği,Quinoa ve Sebzeler,400,12,50,8
+İçecek,Taze Portakal Suyu,120,1,25,0
+Öğle Yemeği,Izgara Tavuklu Salata,450,40,10,15
+Akşam Yemeği,Tavuk Şiş ve Pilav,480,32,45,12
+Ara Öğün,Ceviz ve Yoğurt,200,8,15,10
+İçecek,Taze Portakal Suyu,120,1,25,0
+Kahvaltı,Omlet ve Avokado,300,12,10,20
+Akşam Yemeği,Izgara Köfte ve Brokoli,450,35,5,15
+Akşam Yemeği,Izgara Köfte ve Brokoli,450,35,5,15
+Akşam Yemeği,Tavuk Şiş ve Pilav,480,32,45,12
+İçecek,Taze Portakal Suyu,120,1,25,0
+Kahvaltı,Yulaf Ezmesi ve Meyve,250,6,35,4
+Ara Öğün,Fındık ve Kuru Meyve,180,4,20,8
+Öğle Yemeği,Quinoa ve Sebzeler,400,12,50,8
+İçecek,Smoothie,150,3,30,2
+Öğle Yemeği,Izgara Hindi ve Bulgur,420,38,30,10
+Ara Öğün,Meyve Salatası,150,2,35,0
+Öğle Yemeği,Quinoa ve Sebzeler,400,12,50,8
+İçecek,Yeşil Çay,0,0,0,0
+İçecek,Smoothie,150,3,30,2
+Öğle Yemeği,Izgara Tavuklu Salata,450,40,10,15
+Kahvaltı,Omlet ve Avokado,300,12,10,20
+Akşam Yemeği,Tavuk Şiş ve Pilav,480,32,45,12
+Öğle Yemeği,Quinoa ve Sebzeler,400,12,50,8
+Öğle Yemeği,Izgara Hindi ve Bulgur,420,38,30,10
+Öğle Yemeği,Quinoa ve Sebzeler,400,12,50,8
+Öğle Yemeği,Quinoa ve Sebzeler,400,12,50,8
+Akşam Yemeği,Tavuk Şiş ve Pilav,480,32,45,12
+Öğle Yemeği,Izgara Hindi ve Bulgur,420,38,30,10
+Kahvaltı,Tam Tahıllı Ekmek ve Peynir,270,8,30,9
+Akşam Yemeği,Izgara Somon ve Sebzeler,500,40,10,20
+Kahvaltı,Tam Tahıllı Ekmek ve Peynir,270,8,30,9
+Akşam Yemeği,Tavuk Şiş ve Pilav,480,32,45,12
+İçecek,Yeşil Çay,0,0,0,0
+Öğle Yemeği,Izgara Tavuklu Salata,450,40,10,15
+Öğle Yemeği,Izgara Hindi ve Bulgur,420,38,30,10
+İçecek,Taze Portakal Suyu,120,1,25,0
+İçecek,Taze Portakal Suyu,120,1,25,0
+Akşam Yemeği,Izgara Somon ve Sebzeler,500,40,10,20
+Öğle Yemeği,Quinoa ve Sebzeler,400,12,50,8
+Öğle Yemeği,Izgara Hindi ve Bulgur,420,38,30,10
+Kahvaltı,Omlet ve Avokado,300,12,10,20
+Kahvaltı,Omlet ve Avokado,300,12,10,20
+İçecek,Yeşil Çay,0,0,0,0
+Kahvaltı,Tam Tahıllı Ekmek ve Peynir,270,8,30,9
+Ara Öğün,Ceviz ve Yoğurt,200,8,15,10
+İçecek,Yeşil Çay,0,0,0,0
+İçecek,Smoothie,150,3,30,2
+İçecek,Yeşil Çay,0,0,0,0
+Kahvaltı,Tam Tahıllı Ekmek ve Peynir,270,8,30,9
+İçecek,Smoothie,150,3,30,2
+Kahvaltı,Omlet ve Avokado,300,12,10,20
+Öğle Yemeği,Izgara Hindi ve Bulgur,420,38,30,10
+İçecek,Yeşil Çay,0,0,0,0
+İçecek,Smoothie,150,3,30,2
+İçecek,Taze Portakal Suyu,120,1,25,0
+Ara Öğün,Meyve Salatası,150,2,35,0
+İçecek,Yeşil Çay,0,0,0,0
+İçecek,Smoothie,150,3,30,2
+Kahvaltı,Yulaf Ezmesi ve Meyve,250,6,35,4
+Ara Öğün,Fındık ve Kuru Meyve,180,4,20,8
+Ara Öğün,Fındık ve Kuru Meyve,180,4,20,8
+Ara Öğün,Ceviz ve Yoğurt,200,8,15,10
+İçecek,Taze Portakal Suyu,120,1,25,0
+Kahvaltı,Tam Tahıllı Ekmek ve Peynir,270,8,30,9
+İçecek,Smoothie,150,3,30,2
+Ara Öğün,Meyve Salatası,150,2,35,0
+Akşam Yemeği,Izgara Köfte ve Brokoli,450,35,5,15
+Öğle Yemeği,Izgara Tavuklu Salata,450,40,10,15
+Ara Öğün,Meyve Salatası,150,2,35,0
+İçecek,Taze Portakal Suyu,120,1,25,0
+Öğle Yemeği,Izgara Hindi ve Bulgur,420,38,30,10
+Ara Öğün,Fındık ve Kuru Meyve,180,4,20,8
+İçecek,Smoothie,150,3,30,2
+İçecek,Yeşil Çay,0,0,0,0
+Öğle Yemeği,Quinoa ve Sebzeler,400,12,50,8
+İçecek,Smoothie,150,3,30,2
+Akşam Yemeği,Izgara Somon ve Sebzeler,500,40,10,20
+İçecek,Yeşil Çay,0,0,0,0
+Kahvaltı,Yulaf Ezmesi ve Meyve,250,6,35,4
+İçecek,Yeşil Çay,0,0,0,0
+Öğle Yemeği,Izgara Tavuklu Salata,450,40,10,15
+Kahvaltı,Omlet ve Avokado,300,12,10,20
+Öğle Yemeği,Quinoa ve Sebzeler,400,12,50,8
+İçecek,Yeşil Çay,0,0,0,0
+Ara Öğün,Fındık ve Kuru Meyve,180,4,20,8
+Ara Öğün,Ceviz ve Yoğurt,200,8,15,10
+İçecek,Smoothie,150,3,30,2
+Kahvaltı,Omlet ve Avokado,300,12,10,20
+İçecek,Smoothie,150,3,30,2
+Kahvaltı,Tam Tahıllı Ekmek ve Peynir,270,8,30,9
+Öğle Yemeği,Izgara Hindi ve Bulgur,420,38,30,10
+Akşam Yemeği,Tavuk Şiş ve Pilav,480,32,45,12
+Öğle Yemeği,Quinoa ve Sebzeler,400,12,50,8
+Öğle Yemeği,Izgara Tavuklu Salata,450,40,10,15
+Akşam Yemeği,Izgara Köfte ve Brokoli,450,35,5,15
+Akşam Yemeği,Izgara Somon ve Sebzeler,500,40,10,20
+İçecek,Smoothie,150,3,30,2
+İçecek,Taze Portakal Suyu,120,1,25,0
+Öğle Yemeği,Quinoa ve Sebzeler,400,12,50,8
+İçecek,Yeşil Çay,0,0,0,0
+Ara Öğün,Fındık ve Kuru Meyve,180,4,20,8
+İçecek,Yeşil Çay,0,0,0,0
+Ara Öğün,Meyve Salatası,150,2,35,0
+Ara Öğün,Meyve Salatası,150,2,35,0
+Akşam Yemeği,Izgara Somon ve Sebzeler,500,40,10,20
+Öğle Yemeği,Quinoa ve Sebzeler,400,12,50,8
+Akşam Yemeği,Izgara Somon ve Sebzeler,500,40,10,20
+Akşam Yemeği,Izgara Somon ve Sebzeler,500,40,10,20
+Akşam Yemeği,Izgara Köfte ve Brokoli,450,35,5,15
+İçecek,Smoothie,150,3,30,2
+Öğle Yemeği,Izgara Tavuklu Salata,450,40,10,15
+Akşam Yemeği,Tavuk Şiş ve Pilav,480,32,45,12
+Akşam Yemeği,Izgara Köfte ve Brokoli,450,35,5,15
+Akşam Yemeği,Izgara Köfte ve Brokoli,450,35,5,15
+Akşam Yemeği,Izgara Somon ve Sebzeler,500,40,10,20
+Ara Öğün,Ceviz ve Yoğurt,200,8,15,10
+İçecek,Smoothie,150,3,30,2
+Kahvaltı,Yulaf Ezmesi ve Meyve,250,6,35,4
+Öğle Yemeği,Quinoa ve Sebzeler,400,12,50,8
+Öğle Yemeği,Izgara Tavuklu Salata,450,40,10,15
+Ara Öğün,Meyve Salatası,150,2,35,0
+Akşam Yemeği,Izgara Köfte ve Brokoli,450,35,5,15
+Kahvaltı,Tam Tahıllı Ekmek ve Peynir,270,8,30,9
+İçecek,Smoothie,150,3,30,2
+İçecek,Taze Portakal Suyu,120,1,25,0
+Kahvaltı,Yulaf Ezmesi ve Meyve,250,6,35,4
+İçecek,Smoothie,150,3,30,2
+Öğle Yemeği,Quinoa ve Sebzeler,400,12,50,8
+Öğle Yemeği,Quinoa ve Sebzeler,400,12,50,8
+Öğle Yemeği,Quinoa ve Sebzeler,400,12,50,8
+İçecek,Smoothie,150,3,30,2
+Öğle Yemeği,Izgara Hindi ve Bulgur,420,38,30,10
+Öğle Yemeği,Izgara Hindi ve Bulgur,420,38,30,10
+Öğle Yemeği,Izgara Hindi ve Bulgur,420,38,30,10
+İçecek,Yeşil Çay,0,0,0,0
+Kahvaltı,Omlet ve Avokado,300,12,10,20
+Ara Öğün,Meyve Salatası,150,2,35,0
+Öğle Yemeği,Quinoa ve Sebzeler,400,12,50,8
+Öğle Yemeği,Izgara Tavuklu Salata,450,40,10,15
+Kahvaltı,Omlet ve Avokado,300,12,10,20
+Ara Öğün,Meyve Salatası,150,2,35,0
+Kahvaltı,Yulaf Ezmesi ve Meyve,250,6,35,4
+Kahvaltı,Yulaf Ezmesi ve Meyve,250,6,35,4
+Ara Öğün,Ceviz ve Yoğurt,200,8,15,10
+Akşam Yemeği,Tavuk Şiş ve Pilav,480,32,45,12
+Öğle Yemeği,Quinoa ve Sebzeler,400,12,50,8
+İçecek,Taze Portakal Suyu,120,1,25,0
+Kahvaltı,Tam Tahıllı Ekmek ve Peynir,270,8,30,9
+Kahvaltı,Tam Tahıllı Ekmek ve Peynir,270,8,30,9
+İçecek,Taze Portakal Suyu,120,1,25,0
+Öğle Yemeği,Izgara Hindi ve Bulgur,420,38,30,10
+Ara Öğün,Ceviz ve Yoğurt,200,8,15,10
+Akşam Yemeği,Tavuk Şiş ve Pilav,480,32,45,12
+Kahvaltı,Omlet ve Avokado,300,12,10,20
+Kahvaltı,Yulaf Ezmesi ve Meyve,250,6,35,4
+Akşam Yemeği,Tavuk Şiş ve Pilav,480,32,45,12
+Akşam Yemeği,Izgara Köfte ve Brokoli,450,35,5,15
+Kahvaltı,Omlet ve Avokado,300,12,10,20
+İçecek,Smoothie,150,3,30,2
+Akşam Yemeği,Izgara Köfte ve Brokoli,450,35,5,15
+İçecek,Taze Portakal Suyu,120,1,25,0
+Öğle Yemeği,Izgara Tavuklu Salata,450,40,10,15
+İçecek,Taze Portakal Suyu,120,1,25,0
+İçecek,Smoothie,150,3,30,2
+Kahvaltı,Yulaf Ezmesi ve Meyve,250,6,35,4
+Ara Öğün,Meyve Salatası,150,2,35,0
+Ara Öğün,Fındık ve Kuru Meyve,180,4,20,8
+Akşam Yemeği,Izgara Köfte ve Brokoli,450,35,5,15
+İçecek,Smoothie,150,3,30,2
+İçecek,Taze Portakal Suyu,120,1,25,0
+İçecek,Yeşil Çay,0,0,0,0
+Akşam Yemeği,Izgara Köfte ve Brokoli,450,35,5,15
+İçecek,Yeşil Çay,0,0,0,0
+Ara Öğün,Fındık ve Kuru Meyve,180,4,20,8
+Ara Öğün,Ceviz ve Yoğurt,200,8,15,10
+Öğle Yemeği,Izgara Tavuklu Salata,450,40,10,15
+Kahvaltı,Omlet ve Avokado,300,12,10,20
+Öğle Yemeği,Quinoa ve Sebzeler,400,12,50,8
+İçecek,Yeşil Çay,0,0,0,0
+Öğle Yemeği,Quinoa ve Sebzeler,400,12,50,8
+Kahvaltı,Yulaf Ezmesi ve Meyve,250,6,35,4
+Kahvaltı,Tam Tahıllı Ekmek ve Peynir,270,8,30,9
+Öğle Yemeği,Izgara Tavuklu Salata,450,40,10,15
+İçecek,Taze Portakal Suyu,120,1,25,0
+Öğle Yemeği,Quinoa ve Sebzeler,400,12,50,8
+Öğle Yemeği,Izgara Tavuklu Salata,450,40,10,15
+Ara Öğün,Meyve Salatası,150,2,35,0
+Ara Öğün,Ceviz ve Yoğurt,200,8,15,10
+Kahvaltı,Omlet ve Avokado,300,12,10,20
+Ara Öğün,Meyve Salatası,150,2,35,0
+İçecek,Taze Portakal Suyu,120,1,25,0
+Ara Öğün,Meyve Salatası,150,2,35,0
+İçecek,Yeşil Çay,0,0,0,0
+Ara Öğün,Ceviz ve Yoğurt,200,8,15,10
+Akşam Yemeği,Tavuk Şiş ve Pilav,480,32,45,12
+Kahvaltı,Tam Tahıllı Ekmek ve Peynir,270,8,30,9
+Kahvaltı,Omlet ve Avokado,300,12,10,20
+Akşam Yemeği,Izgara Somon ve Sebzeler,500,40,10,20
+Ara Öğün,Ceviz ve Yoğurt,200,8,15,10
+Kahvaltı,Omlet ve Avokado,300,12,10,20
+Öğle Yemeği,Izgara Hindi ve Bulgur,420,38,30,10
+İçecek,Taze Portakal Suyu,120,1,25,0
+İçecek,Taze Portakal Suyu,120,1,25,0
